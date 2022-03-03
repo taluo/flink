@@ -26,7 +26,7 @@ under the License.
 -->
 
 # Apache Kafka 连接器
-
+中文文档和英文文档不一致
 Flink 提供了 [Apache Kafka](https://kafka.apache.org) 连接器，用于从 Kafka topic 中读取或者向其中写入数据，可提供精确一次的处理语义。
 
 <a name="dependency"></a>
